@@ -20,7 +20,7 @@ HentaiHaven Downloader is a browser extension for users who want a cleaner way t
 
 ## Preview
 
-![HentaiHaven Downloader workflow preview](assets/workflow-preview.svg)
+![HentaiHaven Downloader workflow preview](assets/workflow-preview.webp)
 
 ## Table of Contents
 
