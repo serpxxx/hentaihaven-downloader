@@ -1,6 +1,10 @@
-# HentaiHaven Downloader (Browser Extension)
+# Hentaihaven Video Downloader | How to Download Hentaihaven Videos
 
 > Download supported HentaiHaven videos as MP4 files from the browser with direct quality selection.
+
+## Get it Here
+
+Get it here: https://serp.ly/hentaihaven-downloader
 
 ![Hentaihaven Downloader](https://raw.githubusercontent.com/serpxxx/hentaihaven-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ HentaiHaven Downloader is a browser extension for users who want a cleaner way t
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
 - Keep downloads organized in a dedicated folder
-
-## Get it Here
-
-Get it here: https://serp.ly/hentaihaven-downloader
-
 ## Table of Contents
 
 - [Why HentaiHaven Downloader](#why-hentaihaven-downloader)
